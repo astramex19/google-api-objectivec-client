@@ -1,1 +1,11 @@
 /Source/build/
+/Examples/URLShortenerSample/URLShortenerSample.xcodeproj
+/Examples/URLShortenerSample/build
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
