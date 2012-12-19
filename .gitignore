@@ -1,6 +1,7 @@
 /Source/build/
 /Examples/URLShortenerSample/URLShortenerSample.xcodeproj
 /Examples/URLShortenerSample/build
+/Source/GTL.xcodeproj/project.xcworkspace
 
 # OS generated files #
 ######################
